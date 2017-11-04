@@ -1,0 +1,11 @@
+<html>
+<head>
+<title> INFORMACION TURISTICA </title>
+</head>
+<body >
+<h1><font color="white", size=10> Bienvenido a Oruro </font></h1>
+<p><font color="white", size=6> Capital del Folklore</font></p>
+<center>
+<center><iframe src="https://www.google.com/maps/d/embed?mid=1N_CpMRiXViGZDz7xKL1sMtCyK4I" width="700" height="500"></iframe></center>
+</body>
+</html>
